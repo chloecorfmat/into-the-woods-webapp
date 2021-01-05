@@ -7,7 +7,7 @@
     "test": "tests"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "core-js": "^2.5.7",
     "eslint-config-standard": "^12.0.0",
     "eslint-plugin-import": "^2.14.0",
